@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Abumannobova-Afruza
 - 👀 I’m interested in eating and web devolopment
-- 🌱 I’m currently learning python and sql server, git and github
+- 🌱 I’m currently learning python and sql server, git and github - 1:47
